@@ -1,8 +1,8 @@
 // User credentials and initial balances with money entries
 const users = {
   user1: {
-    username: "user1",
-    password: "password1",
+    username: "Patrick",
+    password: "12213443",
     balance: 0,
     moneyEntries: ["Withdrawal: 0$"],
   },

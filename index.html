@@ -96,7 +96,14 @@
         <input type="text" id="username" name="username" required />
 
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required />
+        <input
+          type="password"
+          id="password"
+          name="password"
+          required
+          minlength="8"
+          maxlength="20"
+        />
 
         <button type="submit">Login</button>
       </form>

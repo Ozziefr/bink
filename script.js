@@ -7,7 +7,7 @@ const users = {
     moneyEntries: ["Withdrawal: 0$"],
   },
   user2: {
-    username: "user2",
+    username: "",
     password: "password2",
     balance: 2500,
     moneyEntries: ["Initial deposit: $2500"],

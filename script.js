@@ -6,7 +6,7 @@ const users = {
     balance: 0,
     moneyEntries: ["Withdrawal: 0$"],
   },
-  user2: {
+  sandwich: {
     username: "sandwich",
     password: "FUZEKIRA",
     balance: 0,
